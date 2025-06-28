@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "michalzynek",
+  "repo": "container-ui3em6e",
+  "name": "michalzynek",
+  "email": "47851935+michalzynek@users.noreply.github.com",
+}
